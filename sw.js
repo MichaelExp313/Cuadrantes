@@ -1,4 +1,4 @@
-const CACHE = 'cuadrantes-v3';
+const CACHE = 'cuadrantes-v4';
 const FILES = ['./', './index.html', './manifest.json', './icon.svg', './icon-192.png', './icon-512.png', './apple-touch-icon.png', './icon-maskable.png'];
 
 self.addEventListener('install', e => {
